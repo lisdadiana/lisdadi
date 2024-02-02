@@ -6,3 +6,4 @@ for (let num of angka) {
         ganjil.push(num);
     }
 }
+console.log("Variabel ganjil:", ganjil);

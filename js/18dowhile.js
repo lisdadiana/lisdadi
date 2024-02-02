@@ -5,3 +5,4 @@ do {
     angka.push(i);
     c++;
 } while (c <= 10);
+console.log(angka);
